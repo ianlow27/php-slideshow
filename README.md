@@ -14,19 +14,19 @@ Add these lines to your composer.json:
 ```json
     {
         "require": {
-            "ianl28/php-slideshow": "*"
+            "ianlow/php-slideshow": "*"
         }
     }
 ```
 or run the following command:
 
-    php composer.phar require ianl28/php-slideshow
+    php composer.phar require ianlow/php-slideshow
 
 ## Usage Example
 
 ```php
 
-$obj1 = new Ianl28\PhpSlideshow\PhpSlideshow();
+$obj1 = new Ianlow\PhpSlideshow\PhpSlideshow();
 
 $obj1->main();
 
@@ -42,7 +42,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Credits
 
-- Ian Low (ianlow28@gmail.com)
+- Ian Low (ianlow27@gmail.com)
 
 ## License
 
