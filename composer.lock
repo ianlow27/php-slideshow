@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "1c21a441812ec634a729ead5d8179a0b",
+    "content-hash": "dc8e54f47e4eb1dacf365a9acf74c0ec",
     "packages": [
         {
             "name": "ianl28/starter-files",
@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/ianlow27/starter-files.git",
-                "reference": "d5dc219d4f7880f9d1c26169339897c34e08ce0a"
+                "reference": "1bd66dcd854542eadc13e8e4d2ed063835725976"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ianlow27/starter-files/zipball/d5dc219d4f7880f9d1c26169339897c34e08ce0a",
-                "reference": "d5dc219d4f7880f9d1c26169339897c34e08ce0a",
+                "url": "https://api.github.com/repos/ianlow27/starter-files/zipball/1bd66dcd854542eadc13e8e4d2ed063835725976",
+                "reference": "1bd66dcd854542eadc13e8e4d2ed063835725976",
                 "shasum": ""
             },
             "default-branch": true,
@@ -42,7 +42,7 @@
                 "issues": "https://github.com/ianlow27/starter-files/issues",
                 "source": "https://github.com/ianlow27/starter-files/tree/main"
             },
-            "time": "2022-10-10T14:50:46+00:00"
+            "time": "2022-10-11T03:42:03+00:00"
         }
     ],
     "packages-dev": [],

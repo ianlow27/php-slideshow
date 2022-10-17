@@ -1,16 +1,16 @@
 {
-    "name": "ianl28/php-slideshow",
+    "name": "ianlow/php-slideshow",
     "description": "This PHP code creates a presentation slideshow from an input text file.",
     "license": "MIT",
     "authors": [
         {
             "name": "Ian Low",
-            "email": "ianlow28@gmail.com"
+            "email": "ianlow27@gmail.com"
         }
     ],
     "autoload": {
       "psr-4": {
-        "Ianl28\\PhpSlideshow\\": "src/"
+        "Ianlow\\PhpSlideshow\\": "src/"
       }
     },
     "scripts": {

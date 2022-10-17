@@ -15,7 +15,7 @@ DONE:
 ### Added
 - details
 ================================================= */
-namespace Ianl28\PhpSlideshow;
+namespace Ianlow\PhpSlideshow;
 
 use Ianl28\StarterFiles as sf;
 
